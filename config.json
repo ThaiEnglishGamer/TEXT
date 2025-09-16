@@ -1,0 +1,7 @@
+{
+    "keybindings": {
+        "save": "ctrl+s",
+        "quit": "ctrl+q"
+    },
+    "theme": "default"
+}
