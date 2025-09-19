@@ -1,7 +1,13 @@
 {
-    "keybindings": {
-        "save": "ctrl+s",
-        "quit": "ctrl+q"
+    "keybinds": {
+        "KEY_UP": "Move cursor up",
+        "KEY_DOWN": "Move cursor down",
+        "KEY_LEFT": "Move cursor left",
+        "KEY_RIGHT": "Move cursor right",
+        "KEY_BACKSPACE": "Delete character",
+        "F1": "Help Page",
+        "F2": "Settings Page",
+        "ESC": "Exit"
     },
-    "theme": "default"
+    "default_file_name": "Untitled"
 }
